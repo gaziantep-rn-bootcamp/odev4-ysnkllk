@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">hafta3</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey" translatable="false">p3615qBAz8bUt_izekS814CZh-DbaxDjnfnYQ</string>
+</resources>
